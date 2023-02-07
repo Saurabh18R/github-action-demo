@@ -38,5 +38,5 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "github-action-demo-test"
-          heroku_email: "pandhuw58@gmail.com"
+          heroku_email: "rautsaurabh.sr2@gmail.com"
           remote_branch: master
